@@ -24,7 +24,7 @@ packages:
 - reattach-to-user-namespace
 - rmtrash
 - ruby-build
-- the_silver_sercher
+- the_silver_searcher
 - tig
 - tmux
 - tree
