@@ -38,13 +38,14 @@ apps:
 - dash
 - docker
 - dropbox
+- firefox
+- franz
 - google-chrome
 - google-japanese-ime
 - intellij-idea
 - iterm2
 - java
 - karabiner-elements
-- macvim
 - rubymine
 - seil
 - sequel-pro
