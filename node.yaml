@@ -11,6 +11,7 @@ packages:
 - go
 - gradle
 - groovy
+- heroku
 - hub
 - imagemagick
 - jq
@@ -39,7 +40,6 @@ apps:
 - docker
 - dropbox
 - firefox
-- franz
 - google-chrome
 - google-japanese-ime
 - intellij-idea
