@@ -17,6 +17,7 @@ packages:
 - jq
 - maven
 - mysql
+- ndenv
 - nkf
 - peco
 - phantomjs
