@@ -12,11 +12,13 @@ packages:
 - gradle
 - groovy
 - heroku
+- hoge
 - hub
 - imagemagick
 - jq
 - maven
 - mysql
+- ndenv
 - nkf
 - peco
 - phantomjs
