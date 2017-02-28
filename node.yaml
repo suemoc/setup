@@ -12,6 +12,7 @@ packages:
 - gradle
 - groovy
 - heroku
+- hoge
 - hub
 - imagemagick
 - jq
