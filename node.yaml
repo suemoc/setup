@@ -14,7 +14,6 @@ packages:
 - hub
 - imagemagick
 - jq
-- macvim
 - maven
 - mysql
 - nkf
@@ -32,13 +31,11 @@ packages:
 - wget
 - zsh
 apps:
-- 1password
 - alfred
 - appcleaner
 - bettertouchtool
 - dash
 - docker
-- fantastical
 - firefox
 - google-backup-and-sync
 - google-chrome
@@ -48,12 +45,11 @@ apps:
 - iterm2
 - java
 - karabiner-elements
+- kindle
 - mysqlworkbench
 - rubymine
-- seil
 - sequel-pro
 - shiftit
 - slack
-- things
 - virtualbox
 - xmind
