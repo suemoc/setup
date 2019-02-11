@@ -41,9 +41,6 @@ casks:
   - alfred
   - appcleaner
   - bettertouchtool
-  - cooviewer
-  - cryptomator
-  - discord
   - docker
   - firefox
   - flux
@@ -77,6 +74,5 @@ store_apps:
   - 539883307 # LINE
   - 585829637 # Todoist
   - 803453959 # Slack
-  - 823766827 # OneDrive
   - 973134470 # BeFocused
   - 975937182 # Fantastical 2
