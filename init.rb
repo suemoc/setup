@@ -1,4 +1,5 @@
 include_recipe './cookbooks/homebrew.rb'
+include_recipe './cookbooks/java.rb'
 include_recipe './cookbooks/packages.rb'
 include_recipe './cookbooks/casks.rb'
 include_recipe './cookbooks/store_apps.rb'
