@@ -52,6 +52,7 @@ cask "shiftit"
 cask "slack"
 cask "virtualbox"
 cask "xmind"
+cask "visual-studio-code"
 mas "Be Focused", id: 973134470
 mas "Fantastical", id: 975937182
 mas "Todoist", id: 585829637
